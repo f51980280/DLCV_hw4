@@ -14,8 +14,8 @@ PyTorch 1.3
 torchvision that matches the PyTorch installation. You can install them together at pytorch.org to make sure of this.  
 OpenCV, needed by demo and visualization  
 fvcore: ```pip install -U 'git+https://github.com/facebookresearch/fvcore'  
-pycocotools: pip install cython; pip install 'git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI'
-GCC >= 4.9  ```
+pycocotools: pip install cython; pip install 'git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI'  ```
+GCC >= 4.9  
 
 #### Build Detectron2  
 After having the above dependencies, run:    
