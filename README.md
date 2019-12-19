@@ -19,10 +19,10 @@ GCC >= 4.9  ```
 
 #### Build Detectron2  
 After having the above dependencies, run:    
-git clone https://github.com/facebookresearch/detectron2.git  
+```git clone https://github.com/facebookresearch/detectron2.git  
 cd detectron2  
-python setup.py build develop  
-
+python setup.py build develop 
+``` 
 #### Implement 
 then check 0856703_hw4.py file pascal.json and train_image dir weather correct  
 then ```python 0856703_hw4.py```  
