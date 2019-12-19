@@ -23,9 +23,9 @@ After having the above dependencies, run:
 cd detectron2  
 python setup.py build develop 
 ``` 
-#### Implement 
+#### Implement for training
 then check 0856703_hw4.py file pascal.json and train_image dir weather correct  
-then ```python 0856703_hw4.py```  
+then ```python 0856703_hw4.py```  start training
 
 Model : MaskR-CNN  
 Backbone : FPN from https://github.com/facebookresearch/detectron2/blob/master/configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml  
