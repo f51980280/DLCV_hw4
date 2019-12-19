@@ -7,7 +7,7 @@ and git clone it in repository
 
 ### follow https://github.com/facebookresearch/detectron2 for build detectron2   
 #### Installation   
-Our Colab Notebook has step-by-step instructions that install detectron2. The Dockerfile also installs detectron2 with a few simple commands.
+Colab Notebook has step-by-step instructions that install detectron2. The Dockerfile also installs detectron2 with a few simple commands.  ```https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5```
 
 #### Requirements  
 Python >= 3.6  
