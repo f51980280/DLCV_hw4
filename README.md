@@ -3,6 +3,7 @@
 
 refrence from https://github.com/facebookresearch/detectron2
 and git clone it in repository  
+```unzip 0856703_hw4``` can get my folder in this homework
 
 ### follow https://github.com/facebookresearch/detectron2 for build detectron2   
 #### Installation   
